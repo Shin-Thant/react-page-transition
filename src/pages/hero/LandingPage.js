@@ -15,7 +15,7 @@ export const data = [
     },
     {
         id: "02",
-        photographer: "Alexander Krivitskiy",
+        photographer: "Krivitskiy",
         image: girl2,
         unsplash_profile: "https://unsplash.com/@krivitskiy",
     },
